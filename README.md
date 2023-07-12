@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HosamAlkhaldy5
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning programming
+- 💞️ I’m looking to collaborate on the society
+- 📫 How to reach me 
 
 <!---
 HosamAlkhaldy5/HosamAlkhaldy5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
